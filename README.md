@@ -11,15 +11,4 @@ This Python project generates a mesmerizing spiral pattern using the `turtle` gr
 
 ---
 
-### ▶️ Running the Project
-
-1. Clone or download the repository.
-2. Navigate to the folder where `spiraldesign.py` is located.
-3. Run the script using:
-
-```bash
-python spiraldesign.py
-
----
-
 ### ▶️Preview

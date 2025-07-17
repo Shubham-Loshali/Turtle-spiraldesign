@@ -12,3 +12,4 @@ This Python project generates a mesmerizing spiral pattern using the `turtle` gr
 ---
 
 ### ▶️Preview
+[![Watch the video](https://img.shields.io/badge/▶%20Click%20to%20Watch-Demo%20Video-blue)](https://github.com/Shubham-Loshali/Turtle-spiraldesign/raw/main/Demo/spiraldesign.mp4)
